@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>dependency-injection-factory</name>
-	<description>Demo of DI options in Spring</description>
+	<description>>Dependency Injection Factory Demo</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
