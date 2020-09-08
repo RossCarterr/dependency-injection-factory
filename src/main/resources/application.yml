@@ -1,11 +1,14 @@
-spring:
-  profiles:
-    active: es
 carter:
-  user: Ross
-  password: passW
-  dburl: asdasdasd
+  #user: Ross
+  #password: passW
+  #dburl: asdasdasd
   jms:
     user: JMS User
     password: passW
     url: SomeURL
+---
+spring:
+  profiles: de
+carter:
+  jms:
+    user: JMS Username German
