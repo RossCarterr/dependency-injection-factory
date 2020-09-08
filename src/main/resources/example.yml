@@ -1,0 +1,32 @@
+# Example
+# this is a comment
+name: Ross
+
+names: #Comment
+  - Ross
+  - Paul
+  - John
+
+pound_sign: "#"
+
+book:
+  author: John Wick
+  publisher: random house
+
+#Bool
+truth: yes
+another_truth: True
+more_true: true
+false: no # No, false, FALSE
+
+colon_string: "varaible: one two three"
+
+include_new_lines: |
+  asdf asdf asdf
+  asdadsfad asd a
+  eqwq
+
+ignore_new_lines: >
+  this is
+  just one long
+  string

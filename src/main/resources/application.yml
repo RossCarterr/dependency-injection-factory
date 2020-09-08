@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: es
+carter:
+  user: Ross
+  password: passW
+  dburl: asdasdasd
+  jms:
+    user: JMS User
+    password: passW
+    url: SomeURL
